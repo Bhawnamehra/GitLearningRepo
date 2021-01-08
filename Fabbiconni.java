@@ -1,3 +1,4 @@
+import java.util.Scanner;
 class Fabbiconni
 {
   public static void main(String agrs[])
