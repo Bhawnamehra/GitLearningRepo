@@ -14,3 +14,4 @@ num=sc.nextInt();
   System.out.println("The factorial is "+fact);
 }
 }
+hllo
